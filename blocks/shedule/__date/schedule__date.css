@@ -1,0 +1,9 @@
+.shedule__date {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 21px;
+  letter-spacing: 0.8px;
+  color: var(--light-grey);
+  align-self: center;
+}

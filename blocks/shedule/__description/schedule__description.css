@@ -1,0 +1,9 @@
+.shedule__descriprion {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 29px;
+  line-height: 41px;
+  letter-spacing: 1.42222px;
+  color: var(--dark-grey);
+  max-width: 524px;
+}

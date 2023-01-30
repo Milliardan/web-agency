@@ -1,0 +1,10 @@
+.portfolio__title {
+  margin: 16px 0 8px 0;
+  padding: 0;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 25px;
+  letter-spacing: 0.416667px;
+  color: var(--dark-grey);
+}

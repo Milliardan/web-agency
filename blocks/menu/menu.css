@@ -1,0 +1,22 @@
+.menu {
+  background: var(--black);
+  display: block;
+  height: 2px;
+  position: relative;
+  width: 24px;
+
+}
+
+.menu::before,
+.menu::after{
+  background: var(--black);
+  content: '';
+  display: block;
+  height: 2px;
+  position: absolute;
+  transition: all .2s ease-out;
+  width: 24px;
+}
+.menu::before{
+  top: 6px;
+}

@@ -1,0 +1,9 @@
+.about__author {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 28px;
+  letter-spacing: 0.67px;
+  color: var(--dark-grey);
+  margin-top: 96px;
+}

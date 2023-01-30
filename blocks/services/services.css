@@ -1,0 +1,7 @@
+.services {
+  max-width: 910px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin: 117px auto 0 auto;
+  column-gap: 130px;
+}

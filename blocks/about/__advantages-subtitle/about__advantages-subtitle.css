@@ -1,0 +1,10 @@
+.about__advantages-subtitle {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 30px;
+  letter-spacing: 0.94px;
+  color: var(--black);
+  margin: 0;
+  padding: 0;
+}

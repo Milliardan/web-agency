@@ -1,0 +1,5 @@
+.portfolio__item {
+  list-style: none;
+  display: grid;
+  justify-items: start;
+}

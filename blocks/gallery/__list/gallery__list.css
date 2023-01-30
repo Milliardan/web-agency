@@ -1,0 +1,8 @@
+.gallery__list {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: end;
+  flex-wrap: nowrap;
+  column-gap: 40px;
+}

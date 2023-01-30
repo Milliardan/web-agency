@@ -1,0 +1,14 @@
+.partners__more {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 28px;
+  text-align: center;
+  letter-spacing: 0.67px;
+  margin-top: 80px;
+}
+
+.partners__more:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}

@@ -1,0 +1,10 @@
+.about__advantages {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 64px;
+  letter-spacing: 2.19556px;
+  color: var(--dark-grey);
+  margin: 0;
+  padding: 0;
+}
