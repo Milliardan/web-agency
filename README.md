@@ -16,3 +16,4 @@
 - CSS
 - БЭМ
 # web-agency
+* [Ссылка на проект](https://milliardan.github.io/web-agency/)
