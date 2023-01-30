@@ -2,6 +2,30 @@
   margin: 0;
   padding: 0;
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  row-gap: 60px;
+  justify-items: center;
+  grid-template-columns: repeat(auto-fit, minmax(178px, 1fr));
+  max-width: 955px;
+  width: 100%;
+  row-gap: 16px;
+  column-gap: 16px;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 1024px) {
+  .partners__list {
+    max-width: 828px;
+    row-gap: 14px;
+    column-gap: 14px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .partners__list {
+    max-width: 668px;
+    row-gap: 16px;
+    column-gap: 16px;
+    margin-top: 88px;
+    padding-left: 24px;
+    padding-right: 24px;
+  }
 }

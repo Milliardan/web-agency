@@ -1,4 +1,5 @@
 .lead__background {
   margin: 0 auto;
-  max-width: 1110px;
+  object-fit: cover;
+  width: 100%;
 }
